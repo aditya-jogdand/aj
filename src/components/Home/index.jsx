@@ -21,7 +21,7 @@ const Home = () => {
       </div>
       <div className="person">
        <center> <img
-          src="photo.jpg"
+          src="photo.png"
           style={{width: '60%', height: '60%', borderRadius: 400/ 2}}
           alt="person picture"
         /></center>

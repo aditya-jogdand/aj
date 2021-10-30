@@ -1,0 +1,37 @@
+footer {
+  width: 100%;
+  padding: 10px 0;
+}
+
+footer img {
+  max-width: 40px;
+}
+
+footer img:not(:last-child) {
+  margin-right: 10px;
+}
+.btn.btn-rounded {
+  border-radius: 50px
+}
+
+.container {
+  margin-top: 100px
+}
+
+img {
+    display: inline;
+    margin-right: 20px;
+  }
+  .fa {
+ 
+   
+    text-align: center;
+    text-decoration: none;
+  
+    border-radius: 20px;
+  }
+
+  .fa:hover {
+    opacity: 0.6;
+}
+

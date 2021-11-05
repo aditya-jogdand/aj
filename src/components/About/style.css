@@ -6,6 +6,9 @@
   margin-bottom: 20px;
 }
 
+p{
+  font-family: "Righteous", cursive;
+}
 button {
   border: none;
   outline: none;

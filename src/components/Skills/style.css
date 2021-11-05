@@ -8,7 +8,7 @@
 
 .content {
   display: grid;
-  font-size: 24px;
+  font-size: 20px;
   grid-template-columns: 1fr 1fr;
 }
 
